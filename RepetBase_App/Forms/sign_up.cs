@@ -26,7 +26,6 @@ namespace RepetBase_App
         private void btnCreate_Click(object sender, EventArgs e)
         {
             if (checkUser())
-
             {
                 return;
             }

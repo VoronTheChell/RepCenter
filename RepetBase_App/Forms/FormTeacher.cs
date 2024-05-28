@@ -25,7 +25,6 @@ namespace RepetBase_App
         public FormTeacher()
         {
             InitializeComponent();
-            label2.Text = lg.USER;
             MaximizeBox = false;
         }
 
